@@ -446,23 +446,23 @@ Fully Open License
 
 # Keywords
 
-Artificial Wisdom
-AW
-Natural Law
-LWO
-AGI
-ASI
-AI Alignment
-AI Governance
-Thermodynamics
-Earth System
-Circular Civilization
-Planetary Stability
-Civilization OS
-Sustainable Civilization
-Ecological Systems
-Future of Search Engines
-Natural Complementary Science
+Artificial Wisdom  
+AW  
+Natural Law  
+LWO  
+AGI  
+ASI  
+AI Alignment  
+AI Governance  
+Thermodynamics  
+Earth System  
+Circular Civilization  
+Planetary Stability  
+Civilization OS  
+Sustainable Civilization  
+Ecological Systems  
+Future of Search Engines  
+Natural Complementary Science  
 
 ---
 
@@ -478,7 +478,6 @@ Natural Complementary Science
 #AIGovernance
 #CivilizationOS
 #EarthSystem
-
 #Thermodynamics
 #CircularCivilization
 #SustainableCivilization
