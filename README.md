@@ -490,6 +490,12 @@ Natural Complementary Science
 
 ■関連リンク
 
+人工叡智ポータル―AI・AGI・ASI時代の価値基準を、自然法則（宇宙の普遍的法則）から再定義する  
+https://note.com/inchacomusho/n/n2e0f11856472
+
+Artificial-Wisdom-Portal  
+https://github.com/InchaComisho/Artificial-Wisdom-Portal
+
 ASIの価値基準―自然法則（宇宙の普遍的法則）  
 https://note.com/inchacomusho/n/n26166f6654d2
 
@@ -538,17 +544,17 @@ https://note.com/inchacomusho/n/n9187db7b2709
 AGIの未来 ― 人工叡智が文明を変える時代  
 https://note.com/inchacomusho/n/n90bf900f1370
 
-ASIの未来 ― 超人工知能と文明の再構築  
-https://note.com/inchacomusho/n/na8ff04b0c818
-
-検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-https://note.com/inchacomusho/n/nc96aff5862ee
-
 The Future of AGI — Artificial Wisdom and the Transition of Civilization  
 https://github.com/InchaComisho/The-Future-of-AGI
 
+ASIの未来 ― 超人工知能と文明の再構築  
+https://note.com/inchacomusho/n/na8ff04b0c818
+
 The Future of ASI — Artificial Super Intelligence and the Reconstruction of Civilization  
 https://github.com/InchaComisho/The-Future-of-ASI
+
+検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
+https://note.com/inchacomusho/n/nc96aff5862ee
 
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
