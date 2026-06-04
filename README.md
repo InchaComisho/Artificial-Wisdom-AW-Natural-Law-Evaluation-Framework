@@ -558,3 +558,22 @@ https://note.com/inchacomusho/n/nc96aff5862ee
 
 The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
 https://github.com/InchaComisho/The-Future-of-Search-Engines
+
+---
+
+## Related Links
+
+人工叡智（Artificial Wisdom: AW）とは何か  
+https://note.com/inchacomusho/n/n18c90bd4d328
+
+Artificial Wisdom (AW): An Integrated Framework for Natural Law-Based Intelligence  
+https://github.com/InchaComisho/Artificial-Wisdom-AW-An-Integrated-Framework-for-Natural-Law-Based-Intelligence
+
+超知能AIをつくれば人類は滅亡するのか  
+https://note.com/inchacomusho/n/na91a53cc493b
+
+Will Superintelligent AI Cause Human Extinction?  
+https://github.com/InchaComisho/Will-Superintelligent-AI-Cause-Human-Extinction-
+
+---
+
