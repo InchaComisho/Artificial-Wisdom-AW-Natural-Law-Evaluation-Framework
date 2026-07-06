@@ -1,5 +1,7 @@
 # Artificial Wisdom (AW)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M6J122N2K2)
+
 ## A Natural-Law-Based Evaluation Framework for Sustainable Civilization, AGI, and ASI
 
 ---
